@@ -1,0 +1,61 @@
+//list tag
+<ol type='1'>
+    <li>sugar</li>
+    <li>rice</li>
+    <li>flour</li>
+    <li>salt</li>
+    <li>lemon max bar</li>
+</ol>
+//For unorder list
+<ul>
+    <li>orange</li>
+    <li>mango</li>
+    <li>banana</li>
+    <li>grapes</li>
+</ul>
+//TABLE:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <TABLE 
+         BORDER="1"
+        <caption>date sheet</caption>
+         <tr>
+            <th>class</th>
+            <th>date</th>
+            <th>subjects</th>
+         </tr>
+         <tr>
+            <td>iv</td>
+            <td>26-may-2013</td>
+            <td>english</td>
+         </tr>
+         <tr>
+            <td>v</td>
+            <td>27-may-2013</td>
+            <td>maths</td>
+        </tr>
+        <tr>
+            <td colspan="3"> student must come on time </colspan> </td>
+        </tr>
+     
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
